@@ -1,0 +1,72 @@
+.background {
+    background-image: url(main4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.blue {
+    background-color: rgb(78, 78, 248);
+}
+
+/* .nav-link:hover {
+    background-color: beige;
+    color: black;
+} */
+.white{
+    color: white;
+}
+.black{
+    color: black;
+}
+
+.sec1{
+    background-image: url(mainbg5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    
+}
+.sec2{
+    background-image: url(mainbg6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sec3{
+    background-image: url(main33.webp);
+    width: 100%;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sec4{
+    background-image: url(mainbg7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    
+} 
+.sec5{
+    background-image: url(mainbg8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    
+} 
+.silver{
+    background-color: rgb(186, 181, 181);
+}
+.contact{
+    width: 15%;
+    height: 65px;
+    position: fixed;
+    right: 0px;
+    bottom: 20px;
+    z-index: -1;
+
+}
+.sec6{
+    position: fixed;
+}
+
+
